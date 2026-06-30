@@ -87,7 +87,7 @@
       ].join('\n')
     );
 
-    const email = config.contactEmail || 'kontakt@example.de';
+    const email = config.contactEmail || 'nikolaev@berlin.de';
     window.location.href = 'mailto:' + email + '?subject=' + subject + '&body=' + body;
   }
 

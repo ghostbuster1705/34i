@@ -13,11 +13,11 @@ Professionelle Landing Page für **Aleksandr Nikolaev**, Immobiliardarlehensverm
 
 ## Vor dem Go-Live anpassen
 
-1. **`js/config.js`** — E-Mail, Domain und optional Formspree-Endpoint eintragen
-2. **`index.html`** — Telefonnummer, canonical URL, JSON-LD `telephone`/`email`/`url`
-3. **`impressum.html`** — Telefon, E-Mail, IHK, Berufshaftpflichtversicherung
-4. **`datenschutz.html`** — E-Mail-Adresse
-5. **`robots.txt`** & **`sitemap.xml`** — Domain `example.de` ersetzen
+1. **`js/config.js`** — Domain `nikolaev.berlin.de` bestätigen oder anpassen; optional Formspree-Endpoint eintragen
+2. **`impressum.html`** — bereits ausgefüllt (IHK Berlin, Markel Insurance SE / exali AG)
+3. **`robots.txt`** & **`sitemap.xml`** — Domain bei Bedarf anpassen
+
+Kontakt: +49 152 045 305 20 · nikolaev@berlin.de
 
 ## Lead-Formular anbinden
 

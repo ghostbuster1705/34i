@@ -3,14 +3,16 @@
  */
 window.BAUFI_CONFIG = {
   // Your public contact email (used for mailto fallback)
-  contactEmail: 'kontakt@example.de',
+  contactEmail: 'nikolaev@berlin.de',
+  contactPhone: '+49 152 045 305 20',
+  contactPhoneTel: '+4915204530520',
 
   // Optional: Formspree / Webhook URL for lead delivery
   // Example: 'https://formspree.io/f/xxxxxxxx'
   formEndpoint: '',
 
   // Canonical site URL (update after deployment)
-  siteUrl: 'https://www.example.de',
+  siteUrl: 'https://nikolaev.berlin.de',
 
   business: {
     name: 'Aleksandr Nikolaev',
